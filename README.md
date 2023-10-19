@@ -44,5 +44,7 @@ Before running the Python script, ensure that you adjust the database connection
 
 ### Created by
 Muhammad Rafidya
+
 rafidya20@gmail.com
+
 linkedin.com/id/mrafidya
