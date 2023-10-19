@@ -5,7 +5,7 @@ import psycopg2
 
 def main():
     # Define database connection
-    database_url = "postgresql://database.sever.name.com:5432/database"
+    database_url = "postgresql://username:password@database.sever.name.com:5432/database"
 
     # Extract employee and timesheets data
     employees = pd.read_csv('employees.csv')
