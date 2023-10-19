@@ -42,9 +42,5 @@ CSV files for employees and timesheets.
 ### Note
 Before running the Python script, ensure that you adjust the database connection details to match your environment.
 
-### Created by
+#### Created by
 Muhammad Rafidya
-
-rafidya20@gmail.com
-
-linkedin.com/id/mrafidya
